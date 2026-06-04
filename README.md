@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently studing at **Sri Lanka Institute of Information Technology**
 
-- 🌱 **Final-year Information Technology undergraduate at SLIIT with a strong foundation in software engineering and hands-on experience in full-stack development. Proficient in Java, JavaScript, React, Flutter, and Spring Boot, with a keen interest in building scalable web and mobile applications and integrating AI-based solutions. A self-motivated and adaptable individual with strong problem-solving skills and the ability to collaborate effectively in team environments. Seeking an opportunity to contribute to innovative software projects while continuing to grow as a professional software engineer!**
+- 🌱 **Recent Software Engineering graduate with practical experience in full-stack web and mobile application development. Proficient in React.js, Next.js, Spring Boot, Laravel, JavaScript, Python, Flutter, WordPress, MySQL, and MongoDB. Experienced in developing responsive and scalable applications, integrating RESTful APIs, designing database-driven solutions, and implementing modern software development best practices. Skilled in both frontend and backend development, with experience building user-friendly web applications, content management systems, and cross-platform mobile applications. Familiar with Agile methodologies, version control systems, and cloud-native development workflows.
+Completed industry internship experience and currently working in a technology-focused environment, contributing to web management, digital solutions, and process optimization initiatives. Passionate about continuous learning, emerging technologies, and delivering high-quality software solutions that create real business value.**
 
 - 📫 How to reach me **danukbiyan@gmail.com**
 
